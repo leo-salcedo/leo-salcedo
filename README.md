@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack and backend software engineering.
 - 🌱 I’m currently learning full-stack development through the App Dev Club's Bootcamp @ the University of Maryland.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at my email --> leosalcedo364@gmail.com
+- 📫 You can reach me on my LinkedIn --> https://www.linkedin.com/in/leo-salcedo29/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love everything basketball.
 
