@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo, a computer science major @ the University of Maryland.
-- 👀 I’m interested in full-stack and backend software engineering.
+- 👀 I’m interested in systems and low-level programming.
 - 🌱 I’m currently learning full-stack development through the App Dev Club's Bootcamp @ the University of Maryland.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my LinkedIn --> https://www.linkedin.com/in/leo-salcedo29/
